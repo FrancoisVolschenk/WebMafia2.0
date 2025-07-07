@@ -1,0 +1,9 @@
+# Django
+db.sqlite3
+**/migrations/
+
+# Python
+__pycahce__/
+*.pyc
+*.log
+*.bak
