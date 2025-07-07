@@ -8,7 +8,7 @@ function Landing() {
         <>
             <div className="card">
                 <h1>Welcome To The Mafia Game</h1>
-    
+
                 <Grid container spacing={2}>
                    <Grid size={12}>
                        <Button  className="Button" variant="outlined" onClick={() => {
