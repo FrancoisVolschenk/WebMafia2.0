@@ -69,6 +69,7 @@ npm run dev
 ---
 # 🤝 Contributing
 If you’d like to contribute, feel free to fork the repository, open issues, or submit pull requests. Collaboration is welcome!
+Have a look at the steps that the game follows in STEPS.md and for clues about which endpoints have been created so far, look in service/urls.py
 
 ---
 # ✅ Notes
